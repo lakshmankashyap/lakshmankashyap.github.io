@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakshmankashyap.github.io/sitemap.xml
+# Allow all crawlers
+Disallow: /assets/img/
+Allow: /assets/lakshman-kashyap-resume.pdf
+robots.txt
